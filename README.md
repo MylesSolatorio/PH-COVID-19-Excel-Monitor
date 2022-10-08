@@ -1,0 +1,1 @@
+An Excel spreadsheet analyzing the key COVID-19 data and figures in the Philippines. The data used in the spreadsheet is acquired from the daily case bulletin released by the Department of Health. However, DOH has stopped releasing daily bulletins since last year. Thus, the spreadsheet data hasn't been updated since September 2021. *The file is password-protected.
